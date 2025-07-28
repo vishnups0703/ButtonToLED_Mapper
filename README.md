@@ -25,7 +25,7 @@ We approached the project using a **structured and scalable code design** by uti
 
 ## 🖼️ Circuit Diagram / Simulation Screenshot
 > *(Place your image here)*  
-![Simulation](simulation2.png)
+![Simulation](simulation2.PNG)
 
 ---
 
